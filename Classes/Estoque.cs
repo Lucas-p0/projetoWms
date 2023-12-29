@@ -13,11 +13,11 @@ public class Estoque
 
 
     [JsonPropertyName("cubagemProduto")]
-    public int CubagemProduto { get; set; }
+    public double CubagemProduto { get; set; }
 
 
     [JsonPropertyName("preco")]
-    public int Preco { get; set; }
+    public double Preco { get; set; }
 
 
     [JsonPropertyName("quantidade")]

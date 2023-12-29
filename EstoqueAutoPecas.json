@@ -493,56 +493,56 @@
         "codigoProduto": 71,
         "nomeProduto": "Suporte de Escapamento",
         "cubagemProduto": 1.43,
-        "preco": "'333.10",
+        "preco": 333.10,
         "quantidade": 57
     },
     {
         "codigoProduto": 72,
         "nomeProduto": "Módulo de Controle de Tração",
         "cubagemProduto": 1.44,
-        "preco": "'333.10",
+        "preco": 333.10,
         "quantidade": 58
     },
     {
         "codigoProduto": 73,
         "nomeProduto": "Sensor de Detonação",
         "cubagemProduto": 1.45,
-        "preco": "'333.10",
+        "preco": 333.10,
         "quantidade": 59
     },
     {
         "codigoProduto": 74,
         "nomeProduto": "Vareta de Óleo",
         "cubagemProduto": 1.46,
-        "preco": "'333.10",
+        "preco": 333.10,
         "quantidade": 2
     },
     {
         "codigoProduto": 75,
         "nomeProduto": "Cilindro de Embreagem",
         "cubagemProduto": 1.47,
-        "preco": "'333.14",
+        "preco": 333.14,
         "quantidade": 3
     },
     {
         "codigoProduto": 76,
         "nomeProduto": "Módulo de Controle do Ar Condicionado",
         "cubagemProduto": 1.48,
-        "preco": "'333.15",
+        "preco": 333.15,
         "quantidade": 4
     },
     {
         "codigoProduto": 77,
         "nomeProduto": "Módulo de Controle do Airbag",
         "cubagemProduto": 1.49,
-        "preco": "'333.10",
+        "preco": 333.10,
         "quantidade": 5
     },
     {
         "codigoProduto": 78,
         "nomeProduto": "Filtro de Gás",
         "cubagemProduto": 1.5,
-        "preco": "'333.17",
+        "preco": 333.17,
         "quantidade": 6
     },
     {
