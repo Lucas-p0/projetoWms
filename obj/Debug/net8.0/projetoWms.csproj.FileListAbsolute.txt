@@ -12,3 +12,4 @@ C:\Projetos\AutoPlay\projetoWms\obj\Debug\net8.0\refint\projetoWms.dll
 C:\Projetos\AutoPlay\projetoWms\obj\Debug\net8.0\projetoWms.pdb
 C:\Projetos\AutoPlay\projetoWms\obj\Debug\net8.0\projetoWms.genruntimeconfig.cache
 C:\Projetos\AutoPlay\projetoWms\obj\Debug\net8.0\ref\projetoWms.dll
+C:\Projetos\AutoPlay\projetoWms\obj\Debug\net8.0\projetoWms.sourcelink.json
