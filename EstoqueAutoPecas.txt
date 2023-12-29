@@ -1,0 +1,702 @@
+[
+    {
+        "codigoProduto": 1,
+        "nomeProduto": "Filtro de Óleo",
+        "cubagemProduto": 1,
+        "preco": 233.54,
+        "quantidade": 1
+    },
+    {
+        "codigoProduto": 2,
+        "nomeProduto": "Pastilhas de Freio",
+        "cubagemProduto": 1.1,
+        "preco": 233.55,
+        "quantidade": 2
+    },
+    {
+        "codigoProduto": 3,
+        "nomeProduto": "Disco de Freio",
+        "cubagemProduto": 1.2,
+        "preco": 233.56,
+        "quantidade": 3
+    },
+    {
+        "codigoProduto": 4,
+        "nomeProduto": "Filtro de Ar",
+        "cubagemProduto": 1.3,
+        "preco": 233.57,
+        "quantidade": 4
+    },
+    {
+        "codigoProduto": 5,
+        "nomeProduto": "Bateria de Carro",
+        "cubagemProduto": 1.4,
+        "preco": 233.58,
+        "quantidade": 5
+    },
+    {
+        "codigoProduto": 6,
+        "nomeProduto": "Correia Dentada",
+        "cubagemProduto": 1.5,
+        "preco": 233.59,
+        "quantidade": 6
+    },
+    {
+        "codigoProduto": 7,
+        "nomeProduto": "Amortecedores",
+        "cubagemProduto": 1.6,
+        "preco": 233.6,
+        "quantidade": 7
+    },
+    {
+        "codigoProduto": 8,
+        "nomeProduto": "Óleo de Motor",
+        "cubagemProduto": 1.7,
+        "preco": 233.61,
+        "quantidade": 8
+    },
+    {
+        "codigoProduto": 9,
+        "nomeProduto": "Velas de Ignição",
+        "cubagemProduto": 1.8,
+        "preco": 233.62,
+        "quantidade": 9
+    },
+    {
+        "codigoProduto": 10,
+        "nomeProduto": "Filtro de Combustível",
+        "cubagemProduto": 1.9,
+        "preco": 233.63,
+        "quantidade": 10
+    },
+    {
+        "codigoProduto": 11,
+        "nomeProduto": "Sensor de Oxigênio",
+        "cubagemProduto": 1.1,
+        "preco": 233.64,
+        "quantidade": 11
+    },
+    {
+        "codigoProduto": 12,
+        "nomeProduto": "Termostato",
+        "cubagemProduto": 1.11,
+        "preco": 233.65,
+        "quantidade": 12
+    },
+    {
+        "codigoProduto": 13,
+        "nomeProduto": "Radiador",
+        "cubagemProduto": 1.12,
+        "preco": 233.66,
+        "quantidade": 13
+    },
+    {
+        "codigoProduto": 14,
+        "nomeProduto": "Bomba de Água",
+        "cubagemProduto": 1.13,
+        "preco": 233.67,
+        "quantidade": 14
+    },
+    {
+        "codigoProduto": 15,
+        "nomeProduto": "Junta do Cabeçote",
+        "cubagemProduto": 1.14,
+        "preco": 333.44,
+        "quantidade": 1
+    },
+    {
+        "codigoProduto": 16,
+        "nomeProduto": "Alternador",
+        "cubagemProduto": 1.15,
+        "preco": 333.45,
+        "quantidade": 2
+    },
+    {
+        "codigoProduto": 17,
+        "nomeProduto": "Motor de Arranque",
+        "cubagemProduto": 1.16,
+        "preco": 333.46,
+        "quantidade": 3
+    },
+    {
+        "codigoProduto": 18,
+        "nomeProduto": "Sensor de Velocidade",
+        "cubagemProduto": 1.17,
+        "preco": 333.47,
+        "quantidade": 4
+    },
+    {
+        "codigoProduto": 19,
+        "nomeProduto": "Palhetas do Limpador",
+        "cubagemProduto": 1.18,
+        "preco": 333.48,
+        "quantidade": 5
+    },
+    {
+        "codigoProduto": 20,
+        "nomeProduto": "Kit de Embreagem",
+        "cubagemProduto": 1.19,
+        "preco": 333.49,
+        "quantidade": 6
+    },
+    {
+        "codigoProduto": 21,
+        "nomeProduto": "Sensor de ABS",
+        "cubagemProduto": 1.2,
+        "preco": 333.5,
+        "quantidade": 7
+    },
+    {
+        "codigoProduto": 22,
+        "nomeProduto": "Bomba de Combustível",
+        "cubagemProduto": 1.21,
+        "preco": 333.51,
+        "quantidade": 8
+    },
+    {
+        "codigoProduto": 23,
+        "nomeProduto": "Mangueira do Radiador",
+        "cubagemProduto": 1.22,
+        "preco": 333.52,
+        "quantidade": 9
+    },
+    {
+        "codigoProduto": 24,
+        "nomeProduto": "Rolamento de Roda",
+        "cubagemProduto": 1.23,
+        "preco": 333.53,
+        "quantidade": 10
+    },
+    {
+        "codigoProduto": 25,
+        "nomeProduto": "Sensor de Pressão do Óleo",
+        "cubagemProduto": 1.24,
+        "preco": 333.54,
+        "quantidade": 11
+    },
+    {
+        "codigoProduto": 26,
+        "nomeProduto": "Compressor de Ar Condicionado",
+        "cubagemProduto": 1.25,
+        "preco": 333.55,
+        "quantidade": 12
+    },
+    {
+        "codigoProduto": 27,
+        "nomeProduto": "Filtro de Cabine",
+        "cubagemProduto": 1.26,
+        "preco": 333.56,
+        "quantidade": 13
+    },
+    {
+        "codigoProduto": 28,
+        "nomeProduto": "Bobina de Ignição",
+        "cubagemProduto": 1.27,
+        "preco": 333.57,
+        "quantidade": 14
+    },
+    {
+        "codigoProduto": 29,
+        "nomeProduto": "Suporte de Motor",
+        "cubagemProduto": 1.28,
+        "preco": 333.58,
+        "quantidade": 15
+    },
+    {
+        "codigoProduto": 30,
+        "nomeProduto": "Corpo de Borboleta",
+        "cubagemProduto": 1.29,
+        "preco": 333.59,
+        "quantidade": 16
+    },
+    {
+        "codigoProduto": 31,
+        "nomeProduto": "Sonda Lambda",
+        "cubagemProduto": 1.3,
+        "preco": 333.6,
+        "quantidade": 17
+    },
+    {
+        "codigoProduto": 32,
+        "nomeProduto": "Válvula EGR",
+        "cubagemProduto": 1.15,
+        "preco": 333.61,
+        "quantidade": 18
+    },
+    {
+        "codigoProduto": 33,
+        "nomeProduto": "Interruptor de Ignição",
+        "cubagemProduto": 1.16,
+        "preco": 333.62,
+        "quantidade": 19
+    },
+    {
+        "codigoProduto": 34,
+        "nomeProduto": "Módulo de Controle do Motor (ECM)",
+        "cubagemProduto": 1.17,
+        "preco": 333.63,
+        "quantidade": 20
+    },
+    {
+        "codigoProduto": 35,
+        "nomeProduto": "Interruptor da Luz de Freio",
+        "cubagemProduto": 1.18,
+        "preco": 333.64,
+        "quantidade": 21
+    },
+    {
+        "codigoProduto": 36,
+        "nomeProduto": "Sincronizador de Caixa de Marcha",
+        "cubagemProduto": 1.19,
+        "preco": 333.65,
+        "quantidade": 22
+    },
+    {
+        "codigoProduto": 37,
+        "nomeProduto": "Bomba de Direção Hidráulica",
+        "cubagemProduto": 1.2,
+        "preco": 333.66,
+        "quantidade": 23
+    },
+    {
+        "codigoProduto": 38,
+        "nomeProduto": "Sensor de Nível de Combustível",
+        "cubagemProduto": 1.21,
+        "preco": 333.67,
+        "quantidade": 24
+    },
+    {
+        "codigoProduto": 39,
+        "nomeProduto": "Bieletas",
+        "cubagemProduto": 1.22,
+        "preco": 333.68,
+        "quantidade": 25
+    },
+    {
+        "codigoProduto": 40,
+        "nomeProduto": "Coxins",
+        "cubagemProduto": 1.23,
+        "preco": 333.69,
+        "quantidade": 26
+    },
+    {
+        "codigoProduto": 41,
+        "nomeProduto": "Sensor de Posição do Virabrequim (CKP)",
+        "cubagemProduto": 1.24,
+        "preco": 333.7,
+        "quantidade": 27
+    },
+    {
+        "codigoProduto": 42,
+        "nomeProduto": "Sensor de Posição da Borboleta (TPS)",
+        "cubagemProduto": 1.25,
+        "preco": 333.71,
+        "quantidade": 28
+    },
+    {
+        "codigoProduto": 43,
+        "nomeProduto": "Filtro do Ar Condicionado",
+        "cubagemProduto": 1.26,
+        "preco": 333.72,
+        "quantidade": 29
+    },
+    {
+        "codigoProduto": 44,
+        "nomeProduto": "Junta Homocinética",
+        "cubagemProduto": 1.27,
+        "preco": 333.73,
+        "quantidade": 30
+    },
+    {
+        "codigoProduto": 45,
+        "nomeProduto": "Comutador de Ignição",
+        "cubagemProduto": 1.28,
+        "preco": 333.74,
+        "quantidade": 31
+    },
+    {
+        "codigoProduto": 46,
+        "nomeProduto": "Rotor do Distribuidor",
+        "cubagemProduto": 1.29,
+        "preco": 333.75,
+        "quantidade": 32
+    },
+    {
+        "codigoProduto": 47,
+        "nomeProduto": "Junta da Tampa de Válvulas",
+        "cubagemProduto": 1.3,
+        "preco": 333.76,
+        "quantidade": 33
+    },
+    {
+        "codigoProduto": 48,
+        "nomeProduto": "Jogo de Juntas do Motor",
+        "cubagemProduto": 1.31,
+        "preco": 333.77,
+        "quantidade": 34
+    },
+    {
+        "codigoProduto": 49,
+        "nomeProduto": "Corrente de Distribuição",
+        "cubagemProduto": 1.32,
+        "preco": 333.78,
+        "quantidade": 35
+    },
+    {
+        "codigoProduto": 50,
+        "nomeProduto": "Mangueira de Freio",
+        "cubagemProduto": 1.3,
+        "preco": 333.79,
+        "quantidade": 36
+    },
+    {
+        "codigoProduto": 51,
+        "nomeProduto": "Atuador de Marcha Lenta",
+        "cubagemProduto": 1.31,
+        "preco": 333.8,
+        "quantidade": 37
+    },
+    {
+        "codigoProduto": 52,
+        "nomeProduto": "Filtro de Transmissão",
+        "cubagemProduto": 1.32,
+        "preco": 333.81,
+        "quantidade": 38
+    },
+    {
+        "codigoProduto": 53,
+        "nomeProduto": "Módulo de Controle da Transmissão (TCM)",
+        "cubagemProduto": 1.33,
+        "preco": 333.82,
+        "quantidade": 39
+    },
+    {
+        "codigoProduto": 54,
+        "nomeProduto": "Válvula PCV",
+        "cubagemProduto": 1.34,
+        "preco": 333.83,
+        "quantidade": 40
+    },
+    {
+        "codigoProduto": 55,
+        "nomeProduto": "Módulo de Controle de Freio",
+        "cubagemProduto": 1.35,
+        "preco": 333.84,
+        "quantidade": 41
+    },
+    {
+        "codigoProduto": 56,
+        "nomeProduto": "Suporte de Transmissão",
+        "cubagemProduto": 1.36,
+        "preco": 333.85,
+        "quantidade": 42
+    },
+    {
+        "codigoProduto": 57,
+        "nomeProduto": "Junta da Tampa do Cárter",
+        "cubagemProduto": 1.37,
+        "preco": 333.86,
+        "quantidade": 43
+    },
+    {
+        "codigoProduto": 58,
+        "nomeProduto": "Tensor da Corrente de Distribuição",
+        "cubagemProduto": 1.38,
+        "preco": 333.87,
+        "quantidade": 44
+    },
+    {
+        "codigoProduto": 59,
+        "nomeProduto": "Válvula Termostática",
+        "cubagemProduto": 1.39,
+        "preco": 333.88,
+        "quantidade": 45
+    },
+    {
+        "codigoProduto": 60,
+        "nomeProduto": "Atuador de Embreagem",
+        "cubagemProduto": 1.4,
+        "preco": 333.89,
+        "quantidade": 46
+    },
+    {
+        "codigoProduto": 61,
+        "nomeProduto": "Filtro do Ar Condicionado",
+        "cubagemProduto": 1.41,
+        "preco": 333.9,
+        "quantidade": 47
+    },
+    {
+        "codigoProduto": 62,
+        "nomeProduto": "Motor do Ventilador de Arrefecimento",
+        "cubagemProduto": 1.42,
+        "preco": 333.91,
+        "quantidade": 48
+    },
+    {
+        "codigoProduto": 63,
+        "nomeProduto": "Válvula Solenoide de Admissão",
+        "cubagemProduto": 1.43,
+        "preco": 333.92,
+        "quantidade": 49
+    },
+    {
+        "codigoProduto": 64,
+        "nomeProduto": "Junta do Cárter de Óleo",
+        "cubagemProduto": 1.44,
+        "preco": 333.93,
+        "quantidade": 50
+    },
+    {
+        "codigoProduto": 65,
+        "nomeProduto": "Válvula de Escape",
+        "cubagemProduto": 1.45,
+        "preco": 333.94,
+        "quantidade": 51
+    },
+    {
+        "codigoProduto": 66,
+        "nomeProduto": "Válvula de Controle de Emissões",
+        "cubagemProduto": 1.46,
+        "preco": 333.95,
+        "quantidade": 52
+    },
+    {
+        "codigoProduto": 67,
+        "nomeProduto": "Cilindro de Freio Mestre",
+        "cubagemProduto": 1.39,
+        "preco": 333.96,
+        "quantidade": 53
+    },
+    {
+        "codigoProduto": 68,
+        "nomeProduto": "Filtro de Vapor do Cárter",
+        "cubagemProduto": 1.4,
+        "preco": 333.97,
+        "quantidade": 54
+    },
+    {
+        "codigoProduto": 69,
+        "nomeProduto": "Módulo de Controle do ABS",
+        "cubagemProduto": 1.41,
+        "preco": 333.98,
+        "quantidade": 55
+    },
+    {
+        "codigoProduto": 70,
+        "nomeProduto": "Reservatório de Fluidos",
+        "cubagemProduto": 1.42,
+        "preco": 333.99,
+        "quantidade": 56
+    },
+    {
+        "codigoProduto": 71,
+        "nomeProduto": "Suporte de Escapamento",
+        "cubagemProduto": 1.43,
+        "preco": "'333.10",
+        "quantidade": 57
+    },
+    {
+        "codigoProduto": 72,
+        "nomeProduto": "Módulo de Controle de Tração",
+        "cubagemProduto": 1.44,
+        "preco": "'333.10",
+        "quantidade": 58
+    },
+    {
+        "codigoProduto": 73,
+        "nomeProduto": "Sensor de Detonação",
+        "cubagemProduto": 1.45,
+        "preco": "'333.10",
+        "quantidade": 59
+    },
+    {
+        "codigoProduto": 74,
+        "nomeProduto": "Vareta de Óleo",
+        "cubagemProduto": 1.46,
+        "preco": "'333.10",
+        "quantidade": 2
+    },
+    {
+        "codigoProduto": 75,
+        "nomeProduto": "Cilindro de Embreagem",
+        "cubagemProduto": 1.47,
+        "preco": "'333.14",
+        "quantidade": 3
+    },
+    {
+        "codigoProduto": 76,
+        "nomeProduto": "Módulo de Controle do Ar Condicionado",
+        "cubagemProduto": 1.48,
+        "preco": "'333.15",
+        "quantidade": 4
+    },
+    {
+        "codigoProduto": 77,
+        "nomeProduto": "Módulo de Controle do Airbag",
+        "cubagemProduto": 1.49,
+        "preco": "'333.10",
+        "quantidade": 5
+    },
+    {
+        "codigoProduto": 78,
+        "nomeProduto": "Filtro de Gás",
+        "cubagemProduto": 1.5,
+        "preco": "'333.17",
+        "quantidade": 6
+    },
+    {
+        "codigoProduto": 79,
+        "nomeProduto": "Cilindro de Freio",
+        "cubagemProduto": 1.51,
+        "preco": 4543.56,
+        "quantidade": 7
+    },
+    {
+        "codigoProduto": 80,
+        "nomeProduto": "Sensor de Fase",
+        "cubagemProduto": 1.52,
+        "preco": 4543.57,
+        "quantidade": 8
+    },
+    {
+        "codigoProduto": 81,
+        "nomeProduto": "Bomba de Freio",
+        "cubagemProduto": 1.53,
+        "preco": 4543.58,
+        "quantidade": 9
+    },
+    {
+        "codigoProduto": 82,
+        "nomeProduto": "Sensor de Posição da Árvore de Cames (CMP)",
+        "cubagemProduto": 1.54,
+        "preco": 4543.59,
+        "quantidade": 10
+    },
+    {
+        "codigoProduto": 83,
+        "nomeProduto": "Corpo de Válvula",
+        "cubagemProduto": 1.55,
+        "preco": 4543.6,
+        "quantidade": 11
+    },
+    {
+        "codigoProduto": 84,
+        "nomeProduto": "Reservatório de Água do Radiador",
+        "cubagemProduto": 1.53,
+        "preco": 4543.61,
+        "quantidade": 12
+    },
+    {
+        "codigoProduto": 85,
+        "nomeProduto": "Módulo de Controle de Ignição",
+        "cubagemProduto": 1.54,
+        "preco": 4543.62,
+        "quantidade": 13
+    },
+    {
+        "codigoProduto": 86,
+        "nomeProduto": "Correia Poly-V",
+        "cubagemProduto": 1.55,
+        "preco": 4543.63,
+        "quantidade": 1
+    },
+    {
+        "codigoProduto": 87,
+        "nomeProduto": "Sensor de Pressão do Freio",
+        "cubagemProduto": 1.56,
+        "preco": 4543.64,
+        "quantidade": 2
+    },
+    {
+        "codigoProduto": 88,
+        "nomeProduto": "Interruptor da Luz de Marcha à Ré",
+        "cubagemProduto": 1.57,
+        "preco": 4543.65,
+        "quantidade": 3
+    },
+    {
+        "codigoProduto": 89,
+        "nomeProduto": "Filtro da Direção Hidráulica",
+        "cubagemProduto": 1.58,
+        "preco": 4543.66,
+        "quantidade": 4
+    },
+    {
+        "codigoProduto": 90,
+        "nomeProduto": "Tubo de Escape",
+        "cubagemProduto": 1.59,
+        "preco": 4543.67,
+        "quantidade": 5
+    },
+    {
+        "codigoProduto": 91,
+        "nomeProduto": "Conjunto de Reparo da Suspensão",
+        "cubagemProduto": 1.6,
+        "preco": 4543.68,
+        "quantidade": 6
+    },
+    {
+        "codigoProduto": 92,
+        "nomeProduto": "Tubo Flexível de Freio",
+        "cubagemProduto": 1.61,
+        "preco": 4543.69,
+        "quantidade": 7
+    },
+    {
+        "codigoProduto": 93,
+        "nomeProduto": "Mola de Suspensão",
+        "cubagemProduto": 1.62,
+        "preco": 4543.7,
+        "quantidade": 8
+    },
+    {
+        "codigoProduto": 94,
+        "nomeProduto": "Cilindro de Roda",
+        "cubagemProduto": 1.63,
+        "preco": 4543.71,
+        "quantidade": 9
+    },
+    {
+        "codigoProduto": 95,
+        "nomeProduto": "Válvula de Controle de Marcha Lenta",
+        "cubagemProduto": 1.64,
+        "preco": 4543.72,
+        "quantidade": 10
+    },
+    {
+        "codigoProduto": 96,
+        "nomeProduto": "Tubo do Respiro do Cárter",
+        "cubagemProduto": 1.65,
+        "preco": 4543.73,
+        "quantidade": 11
+    },
+    {
+        "codigoProduto": 97,
+        "nomeProduto": "Reservatório de Fluido de Freio",
+        "cubagemProduto": 1.66,
+        "preco": 4543.74,
+        "quantidade": 12
+    },
+    {
+        "codigoProduto": 98,
+        "nomeProduto": "Sensor de Temperatura da Água",
+        "cubagemProduto": 1.67,
+        "preco": 4543.75,
+        "quantidade": 13
+    },
+    {
+        "codigoProduto": 99,
+        "nomeProduto": "Atuador de Freio",
+        "cubagemProduto": 1.68,
+        "preco": 4543.76,
+        "quantidade": 14
+    },
+    {
+        "codigoProduto": 100,
+        "nomeProduto": "Reservatório de Fluido de Embreagem",
+        "cubagemProduto": 1.69,
+        "preco": 4543.77,
+        "quantidade": 15
+    }
+]

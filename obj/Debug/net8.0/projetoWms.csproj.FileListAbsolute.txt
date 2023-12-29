@@ -1,0 +1,14 @@
+C:\Projetos\AutoPlay\projetoWms\bin\Debug\net8.0\projetoWms.exe
+C:\Projetos\AutoPlay\projetoWms\bin\Debug\net8.0\projetoWms.deps.json
+C:\Projetos\AutoPlay\projetoWms\bin\Debug\net8.0\projetoWms.runtimeconfig.json
+C:\Projetos\AutoPlay\projetoWms\bin\Debug\net8.0\projetoWms.dll
+C:\Projetos\AutoPlay\projetoWms\bin\Debug\net8.0\projetoWms.pdb
+C:\Projetos\AutoPlay\projetoWms\obj\Debug\net8.0\projetoWms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\AutoPlay\projetoWms\obj\Debug\net8.0\projetoWms.AssemblyInfoInputs.cache
+C:\Projetos\AutoPlay\projetoWms\obj\Debug\net8.0\projetoWms.AssemblyInfo.cs
+C:\Projetos\AutoPlay\projetoWms\obj\Debug\net8.0\projetoWms.csproj.CoreCompileInputs.cache
+C:\Projetos\AutoPlay\projetoWms\obj\Debug\net8.0\projetoWms.dll
+C:\Projetos\AutoPlay\projetoWms\obj\Debug\net8.0\refint\projetoWms.dll
+C:\Projetos\AutoPlay\projetoWms\obj\Debug\net8.0\projetoWms.pdb
+C:\Projetos\AutoPlay\projetoWms\obj\Debug\net8.0\projetoWms.genruntimeconfig.cache
+C:\Projetos\AutoPlay\projetoWms\obj\Debug\net8.0\ref\projetoWms.dll
