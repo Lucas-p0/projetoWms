@@ -1,4 +1,6 @@
-﻿void mensagemBoasVindas()
+﻿using System.Net.Http;
+
+void mensagemBoasVindas()
 {
     Console.Clear();
     string mesagem = @"
@@ -14,3 +16,7 @@
 
 mensagemBoasVindas();
 
+using (HttpClient client = new())
+{
+    string URL_API = "";
+}
