@@ -23,8 +23,15 @@ public class Estoque
     [JsonPropertyName("quantidade")]
     public int Quantidade { get; set; }
 
+    public void adicionaQuantidadeEmEstoque(int quantidade)
+    {
+        Quantidade += quantidade;
+    }
 
-
+    public void removerQuantidadeEmEstoque(int quantidade)
+    {
+        Quantidade -= quantidade;
+    }
 
 
 }

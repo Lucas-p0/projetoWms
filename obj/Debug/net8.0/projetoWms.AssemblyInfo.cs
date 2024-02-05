@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("projetoWms")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a6f11a20c0f51e0ee4e7c491a09b65000682eb38")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("projetoWms")]
 [assembly: System.Reflection.AssemblyTitleAttribute("projetoWms")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
